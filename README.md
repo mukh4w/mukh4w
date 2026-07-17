@@ -2,9 +2,9 @@
   <img src="banner.gif" width="100%" alt="mukh4w terminal banner"/>
 </p>
 
-## About
+## About Me
 
-Security engineer — penetration testing and bug bounty. I build offensive security tooling and play CTFs (jeopardy and attack/defense) with **FR13NDS TEAM**.
+Specializing in Security engineering, red team operations and security researching. I build offensive security tooling and play CTFs (jeopardy and attack/defense) with **FR13NDS TEAM**.
 
 Currently making small TUI-based tools, starting with `rast-tui`. Next up: a lightweight web proxy for security testing — a Burp Suite / Caido–style tool built for the terminal.
 
