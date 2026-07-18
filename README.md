@@ -56,3 +56,14 @@ Based in Kazakhstan (Almaty / Astana / Shymkent).
   <a href="https://linkedin.com/in/nurislam-mukhash"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/1088842444763832410"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
+## Also Me on These Platforms
+<p align="left">
+  <a href="https://cyberqupiya.kz/users/mukh4w"><img src="https://img.shields.io/badge/CyberQupiya-black?style=for-the-badge&labelColor=0d1117&color=00ff9c"/></a>
+  <a href="https://app.hackthebox.com/users/2452962?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://tryhackme.com/p/mukhash"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://www.root-me.org/mukh4w"><img src="https://img.shields.io/badge/Root--Me-black?style=for-the-badge&labelColor=0d1117&color=e6edf3"/></a>
+  <a href="https://standoff365.com/profile/mukhashnurislam/"><img src="https://img.shields.io/badge/Standoff_365-black?style=for-the-badge&labelColor=0d1117&color=00ff9c"/></a>
+  <a href="https://ctftime.org/user/238988"><img src="https://img.shields.io/badge/CTFtime-black?style=for-the-badge&labelColor=0d1117&color=00ff9c"/></a>
+  <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+</p>
