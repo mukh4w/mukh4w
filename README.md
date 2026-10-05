@@ -37,7 +37,7 @@ Based in Kazakhstan (Almaty / Astana / Shymkent).
 
 ## Featured Project
 
-**[rast-tui](https://github.com/mukh4w/rast-tui)** — TUI fuzzy launcher for per-directory shell command snippets. Pick a command, edit it in your prompt, run it yourself.
+**[cbox](https://github.com/mukh4w/cbox)** — TUI fuzzy launcher for per-directory shell command snippets. Pick a command, edit it in your prompt, run it yourself.
 
 ## GitHub Stats
 <p align="center">
